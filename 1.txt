@@ -2,6 +2,6 @@ ichanges
 Hi this is nana 1.txtwq
 
 change
-to new
+to new ichanges
 wq
 check the difference
